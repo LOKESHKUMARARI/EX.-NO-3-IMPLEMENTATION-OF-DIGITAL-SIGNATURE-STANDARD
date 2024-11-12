@@ -1,4 +1,4 @@
-# EX.-NO-3-IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD
+# EX.12 -IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD
 
 ## AIM:
 To write a C program to implement the signature scheme named digital signature
